@@ -3,10 +3,7 @@
 
 ### a Son, Husband, Father & Technologist!
 ##### I speak four languages... 
-##### - Hindi
-##### - English
-##### - Java 
-##### - Kotlin (learning)
+##### - Hindi, English, Java, Kotlin (learning)
 
 #### Connect with me:
 [<img align="left" alt="v3sagar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
