@@ -45,12 +45,12 @@
 
 <br />
 <br />
----
+
 <details>
   <summary>:zap: My Github stats</summary>
   <img align="left" alt="sagarvns2003 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sagarvns2003&show_icons=true&hide_border=true" />
 </details>
 
 
-[linkedin]: https://www.linkedin.com/in/v3sagar/
+[linkedin]: https://www.linkedin.com/in/vidyasagar-gupta/
 [twitter]: https://twitter.com/sagarvns2003
