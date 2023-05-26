@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Vidya
 
 
-### a Son, Husband, Father & Technologist!
-#### Hands on Skills: Java 17/11/8, MicroServices with Vert.x, Spring Boot3, Spring6 (Core, I/O, Batch, Integration, Data/REST, MVC, Webflux), RxJava, Apache Camel, Mule, SpringCloud Config Server, Docker, PCF, Actuators, Swagger/OpenAPI, Eureka, Hystrix, SAML2.0, Jetty, Tomcat, Websphere, Ant, Maven, Hibernate/JPA, Redis, EHCache, JMS, IBM MQ, Apache Kafka, JDBC, SQL, PostgreSQL, Oracle, MySQL, MongoDB, Web Services (SOAP, REST), JAX-WS, JAXB, JEE (JSP/Servlets), XML, XSL, JavaScript, jQuery, NodeJS, ReactJS, Redux, TypeScript, AJAX, HTML5, CSS3, SVN, GIT, Github, Stash/BitBucket, Jenkins CI/CD, Splunk, SourceTree, Eclipse, STS, RAD7.5, VS Code, MacOS, Linux, Agile/Scrum, JIRA, Confluence etc.
+#### a Son, Husband, Father & Technologist!
+##### Hands on Skills: Java 17/11/8, Kotlin, MicroServices with Vert.x, Spring Boot3, Spring6 (Core, I/O, Batch, Integration, Data/REST, MVC, Webflux), RxJava, Apache Camel, Mule, SpringCloud Config Server, Docker, PCF, Actuators, Swagger/OpenAPI, Eureka, Hystrix, SAML2.0, Jetty, Tomcat, Websphere, Ant, Maven, Hibernate/JPA, Redis, EHCache, JMS, IBM MQ, Apache Kafka, JDBC, SQL, PostgreSQL, Oracle, MySQL, MongoDB, Web Services (SOAP, REST), JAX-WS, JAXB, JEE (JSP/Servlets), XML, XSL, JavaScript, jQuery, NodeJS, ReactJS, Redux, TypeScript, AJAX, HTML5, CSS3, SVN, GIT, Github, Stash/BitBucket, Jenkins CI/CD, Splunk, SourceTree, Eclipse, STS, RAD7.5, VSCode, IntelliJ Idea, Windows, MacOS, Linux/Unix, Agile/Scrum, JIRA, Confluence etc.
 
 <br />
 
