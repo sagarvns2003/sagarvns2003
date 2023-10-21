@@ -48,6 +48,10 @@
 
 <details>
   <summary>:zap: My Github stats</summary>
+  ![](https://github-readme-stats.vercel.app/api?username=sagarvns2003&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=sagarvns2003&theme=vue-dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarvns2003&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
   <img align="left" alt="sagarvns2003 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sagarvns2003&show_icons=true&hide_border=true" />
 </details>
 
