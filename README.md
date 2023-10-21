@@ -48,7 +48,7 @@
 <br />
 
 #### My Github stats...
-[![](https://visitcount.itsvg.in/api?id=sagarvns2003&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sagarvns2003&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ![](https://github-readme-stats.vercel.app/api?username=sagarvns2003&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sagarvns2003&theme=vue-dark&hide_border=false)<br/>
