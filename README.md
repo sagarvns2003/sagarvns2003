@@ -1,5 +1,4 @@
-## Hi there 👋, I'm Vidya
-
+## Hi there 👋, I'm Vidya 
 
 #### a Son, Husband, Father & Technologist!
 ##### Hands on Skills: Java 17/11/8, Kotlin, MicroServices with Vert.x, Spring Boot3, Spring6 (Core, I/O, Batch, Integration, Data/REST, MVC, Webflux), RxJava, Apache Camel, Mule, SpringCloud Config Server, Docker, PCF, Actuators, Swagger/OpenAPI, Eureka, Hystrix, SAML2.0, Jetty, Tomcat, Websphere, Ant, Maven, Hibernate/JPA, Redis, EHCache, JMS, IBM MQ, Apache Kafka, JDBC, SQL, PostgreSQL, Oracle, MySQL, MongoDB, Web Services (SOAP, REST), JAX-WS, JAXB, JEE (JSP/Servlets), XML, XSL, JavaScript, jQuery, NodeJS, ReactJS, Redux, TypeScript, AJAX, HTML5, CSS3, SVN, GIT, Github, Stash/BitBucket, Jenkins CI/CD, Splunk, SourceTree, Eclipse, STS, RAD7.5, VSCode, IntelliJ Idea, Windows, MacOS, Linux/Unix, Agile/Scrum, JIRA, Confluence etc.
@@ -38,6 +37,8 @@
 
 <br />
 <br />
+<br />
+<br />
 
 #### Connect with me:
 [<img align="left" alt="vidyasagar-gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -46,14 +47,12 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: My Github stats</summary>
-  ![](https://github-readme-stats.vercel.app/api?username=sagarvns2003&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=sagarvns2003&theme=vue-dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarvns2003&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+#### My Github stats...
+[![](https://visitcount.itsvg.in/api?id=sagarvns2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <img align="left" alt="sagarvns2003 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sagarvns2003&show_icons=true&hide_border=true" />
-</details>
+![](https://github-readme-stats.vercel.app/api?username=sagarvns2003&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sagarvns2003&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarvns2003&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 [linkedin]: https://www.linkedin.com/in/vidyasagar-gupta/
